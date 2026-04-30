@@ -79,4 +79,4 @@ For tracking and onboarding, I believe in **uninterrupted data flow**. In past s
 ### 🚀 Future Improvements
 If I were to rebuild this project today, I would:
 1. **Move to Gutenberg:** I’d utilize native block-based editing to completely remove the Elementor overhead for even better Core Web Vitals.
-2. **Edge Deployment:** I would host the site on a platform that supports **Edge Caching** to ensure that users—and Googlebot—receive the page in under 200ms regardless of their global location.
+2. **Edge Deployment:** I would host the site on a platform that supports **Edge Caching** to ensure that users—and Googlebot—receive the page in under 200ms regardless of their global locations
