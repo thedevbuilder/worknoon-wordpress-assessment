@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Worknoon",
+  "url": "https://worknoon.com",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Worknoon",
+    "logo": "https://worknoon.com/logo.png"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://worknoon.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}

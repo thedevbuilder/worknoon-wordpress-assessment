@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Worknoon",
+  "url": "https://worknoon.com",
+  "logo": "https://worknoon.com/logo.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "careers@worknoon.com",
+    "contactType": "customer support"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/worknoon",
+    "https://twitter.com/worknoon",
+    "https://www.facebook.com/worknoon"
+  ]
+}
